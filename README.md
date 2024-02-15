@@ -16,7 +16,7 @@
 
 <br>
 
-- This repo contains my coding work, documentation and resume!
+
 - A enthusiastic Self-taught "developer"
 - Currently learning programming by Self
 - Playing Forex at spare time... 📈
