@@ -1,6 +1,6 @@
 
 
-The `Code with commentary` directory contains various coding practice files, while the `Programs` directory contains projects and associated 
+The `Code with commentary` directory contains various coding practice files with commentary, while the `Programs` directory contains projects and associated 
 tests. The `Tests` subdirectories contain unit tests for each project.
 
 #
