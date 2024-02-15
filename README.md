@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://github.com/1FRESH1/Coding---resume/blob/fa61b02a9744e5a234cd0cf245f8faf1534a82e7/assets/about_me.gif" width = 150px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/1FRESH1/Portfolio/blob/1b3f19eff87cf172733f10410b8437ed3251171c/Portfolio%20dane/assets/programming-2.svg" width = 270px></picture>
+<picture> <img align="right" src="https://github.com/1FRESH1/Coding---resume/blob/3d06b8b98f5a4e02c81fe045511eddcd7586ce11/assets/programming-2.svg" width = 270px></picture>
 
 <br>
 
