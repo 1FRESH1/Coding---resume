@@ -25,7 +25,7 @@
 - Print on demand
 - Lifelong Learner
 - Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my Git HUb profile](https://github.com/1FRESH1)
 
 
 
