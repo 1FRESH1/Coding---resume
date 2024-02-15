@@ -12,6 +12,7 @@
 
 <br>
 
+- This repo contains my coding work, documentation and resume!
 - A enthusiastic Self-taught "developer"
 - Currently learning programming by Self
 - Playing Forex at spare time... 📈
@@ -21,6 +22,7 @@
 - Lifelong Learner
 - Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
 
 
 <br><br>
