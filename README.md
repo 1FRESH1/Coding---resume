@@ -25,7 +25,8 @@
 - Print on demand
 - Lifelong Learner
 - Personal website [link](https://1fresh1.github.io/Portfolio/) ( 👷 Work in progress 👷 )
-- I’m currently open for an Intern or a new job opportunity, this is [my Git HUb profile](https://github.com/1FRESH1){:target="_blank"}
+- I’m currently open for an Intern or a new job opportunity, this is <a href="https://github.com/1FRESH1" target="_blank">my GitHub profile</a>
+
 
 
 
